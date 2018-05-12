@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7330
     wikipedia: http://en.wikipedia.org/wiki/William_Henry_Holmes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17370#Prehistoric-Textile-Fabrics-Of-The-United-States-Derived-From-Impressions-On-Pottery--13-Thir_
 gutenberg_bookshelf:
 - Art
 - Manufacturing
